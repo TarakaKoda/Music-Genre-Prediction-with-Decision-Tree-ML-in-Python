@@ -3,10 +3,11 @@
 **Design a Music Genre Recommendation System in Python Using a Decision Tree Classifier. This code contains training, testing, prediction, and model storage in Jupyter Notebook. Begin your machine learning career with this repo for Decision Tree music genre classification.**
 
 **********************************************************************************************************************************************************************
+# Machine learning
 
 **Machine learning is a powerful method for handling complicated image classification issues, such as determining whether an image depicts a cat, dog, or horse. The primary benefit of employing machine learning is that it can learn from vast volumes of labelled data to uncover patterns and characteristics that differentiate between various classes. This reduces the need for manual rule-based programming and increases system flexibility and adaptability. The model's accuracy in identifying fresh photos may be constantly improved with the addition of new data, guaranteeing that it can keep up with changing real-world situations. As a result, machine learning may be used to create strong and accurate picture categorization systems.**
 
-# Applications :
+# Applications 
 
  - Self-driving cars
  - Robotics
@@ -42,7 +43,7 @@ These codes can be used as a reference to build a music genre classifier using t
  
  **********************************************************************************************************************************************************************
  
-*We welcome contributions from the community to enhance the functionality of this project. If you have any ideas or suggestions, feel free to fork the repository, make changes, and submit a pull request. Together, we can make this project even better.*
+*If you have any ideas or suggestions for improving this project, feel free to fork the repository, make changes, and submit a pull request. With your contributions, we can make this project even better.*
 
 
  
